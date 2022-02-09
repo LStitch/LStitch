@@ -2,7 +2,7 @@
 
 ### Hola que tal 👋
 
-Bienvenidos al perfil de ✨ _Leonardo "LStitch" Gómez_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenidos al perfil de ✨ _Leonardo "LStitch" Gómez_ ✨
 
 Here are some ideas to get you started:
 
