@@ -1,13 +1,8 @@
-![](https://images.cooltext.com/5508510.png)
+![](https://i.pinimg.com/474x/5b/68/eb/5b68ebd4e5ad9b80233ff0fb99f3fa9c.jpg)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+### Hola que tal 👋
 
-
-![](GHLogoTMP.png)
-
-### Hi there 👋
-
-**LStitch/LStitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenidos al perfil de ✨ _Leonardo "LStitch" Gómez_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
