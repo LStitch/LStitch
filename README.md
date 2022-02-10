@@ -16,11 +16,11 @@ Guías acerca del juego en el siguiente link ✨ https://lstitch-class.super.sit
 - 🌱 Actualmente estoy aprendiendo más sobre redes, seguridad informática y la escena competitiva de League of Legends.
 - 👯 Estoy buscando coolaborar en proyectos de todo tipo y posiblemente ser inversionista.
 - 🤔 Estoy buscando sugerencias de libros que recomienden.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Pueden contactarme en discord como LStitch#7719.
+- 😄 Música: Una playlist bien cool con mezcla de todo genero musical (https://open.spotify.com/playlist/200tLUJ4pv7HRwKkfATRyy?si=40c34498e29a4ce6).
 - ⚡ Sobre mí: Me gusta debatir, argumentar, mis pasatiempos son dibujar, investigar, jugar videojuegos, informarme acerca de la escena competitiva de League of Legends, elaborar documentos que sean de apoyo como material.
-- 
+
+Horario Universitario
 
 |         | Lunes                                                 | Martes                                               | Miércoles                                            | Jueves                                              | Viernes                                             |
 |---------|-------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
