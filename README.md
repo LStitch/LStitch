@@ -4,7 +4,9 @@
 
 Bienvenidos al perfil de ✨ _Leonardo "LStitch" Gómez_ ✨
 
-Here are some ideas to get you started:
+Analísta Profesional de League of Legends
+Guías acerca del juego en el siguiente link ✨ https://lstitch-class.super.site ✨
+
 
 - 🔭 Actualmente me encuentro trabajando en la empresa Jelp en IT.
 - 🌱 I’m currently learning ...
