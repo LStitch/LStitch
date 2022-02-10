@@ -5,6 +5,7 @@
 Bienvenidos al perfil de ✨ _Leonardo "LStitch" Gómez_ ✨
 
 Analísta Profesional de League of Legends
+
 Guías acerca del juego en el siguiente link ✨ https://lstitch-class.super.site ✨
 
 
